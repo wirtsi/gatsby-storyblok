@@ -1,0 +1,9 @@
+.content-stage-teaser-placeholder {
+  min-height: 100vw;
+}
+
+@media (min-width: 641px) {
+  .content-stage-teaser-placeholder {
+    min-height: 34.7vw;
+  }
+}
